@@ -1,8 +1,8 @@
 # Sudoku-Puzzle-solver
-This project was part of the interview process for Insight Data Engineering
 
+This is a sudoku solver which uses 'backtracking algorithm' to solve any sudoku puzzle. The program has been tested on sudoku puzzles of varying difficulties. The solve time is very low even for 17 number sudoku which is the hardest possible difficulty level.
 
-This is a sudoku solver which uses backtracking algorithm to solve any sudoku puzzle.
+The IDE used for developing the code was VS Express 2010.
 
 How to run the program:
 

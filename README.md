@@ -4,7 +4,7 @@ This is a sudoku solver which uses 'backtracking algorithm' to solve any sudoku 
 
 The IDE used for developing the code was VS Express 2010.
 
-The program uses recursive functions in the solution resulting in compact and elegant code. Also recursive functions are awesome!
+The program uses recursive functions in the solution resulting in compact and elegant code. Recursive functions are awesome!
 
 How to run the program:
 
